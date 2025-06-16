@@ -1,0 +1,2 @@
+Czy graf był spójny przed usunięciem krawędzi? TAK
+Czy graf jest spójny po usunięciu jednej losowej krawędzi? NIE
